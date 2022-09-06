@@ -6,3 +6,11 @@ C:\c# works\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.SuggestedBin
 C:\c# works\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
 C:\c# works\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
 C:\c# works\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.SuggestedBindingRedirects.cache
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\kom_3\gitTutorial\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

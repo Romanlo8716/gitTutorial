@@ -1,0 +1,8 @@
+C:\c# works\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+C:\c# works\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe
+C:\c# works\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.pdb
+C:\c# works\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.AssemblyReference.cache
+C:\c# works\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.SuggestedBindingRedirects.cache
+C:\c# works\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\c# works\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+C:\c# works\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.pdb

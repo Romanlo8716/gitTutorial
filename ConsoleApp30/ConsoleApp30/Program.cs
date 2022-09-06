@@ -13,7 +13,7 @@ namespace ConsoleApp30
 
     public class Primer
     {
-        public static void Print() => Console.WriteLine("Привет мир!");
+        public void Print() => Console.WriteLine("Привет мир!");
 
         public static void PrintHow() => Console.WriteLine("Как дела?");
     }
@@ -29,7 +29,8 @@ namespace ConsoleApp30
     {
         static void Main(string[] args)
         {
-            Message message = Primer.Print;
+            Primer primer = new Primer();
+            Message message = primer.Print;
 
             message += Primer.PrintHow; // добавление метода в делегат, -= удаление метода из делегата
 
